@@ -15,7 +15,10 @@ const About = () => {
 
                         <div>
                             <p>Hi... I am <b>Nazmul Hasan Himel.</b></p>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                            <p>A dedicated and hardworking individual with a Bachelor's degree in Computer Science and work experience of 3 years. Being well aware of the challenges and demands of this ever-evolving sector, I am offering my efficient and diligent services to fulfill the requirements of the IT industry. <br/> I aim at keeping myself up-to-date with the on-going developments in this field. Therefore, through my growing knowledge as well as sharp focus, I intend to successfully achieve my career goals. Expert in React.js, Node.js, Express, MongoDB, Firebase, Redux.<br/>
+                            I completed my Bachelor of Science in Computer Science &amp; Engineering at Daffodil International University.
+                            Working with the clients, my goal is always driven towards providing amazing experience with the best level of quality and service to them.
+                            </p>
                         </div>
 
                     </div>

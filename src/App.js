@@ -52,14 +52,17 @@ function App() {
               </div>
             </div>
           </nav>
+          
          
           
         </header>
-
        
 
         <Switch>
-          <Route exact path="/" ></Route>
+
+          <Route exact path="/" >
+          <ImgSlider />
+          </Route>
           <Route path="/skill" component={skill}>
           </Route>
           <Route path="/portfolio" component={portfolio}>
